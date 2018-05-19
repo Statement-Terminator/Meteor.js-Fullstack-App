@@ -1,5 +1,5 @@
 {
-  "name": "realfemBlog",
+  "name": "SimpleBlog",
   "private": true,
   "scripts": {
     "start": "meteor run"
